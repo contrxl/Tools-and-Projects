@@ -31,7 +31,7 @@ fn main() {
 
         // Output MX record for domain taken from user input.
         match mx_response {
-            Err(_) => println!("No Records"),
+            Err(_) => println!("{} : No Records", input),
             Ok(mx_response) => {
                 let addresses = mx_response.iter();
                 for record in addresses {
@@ -50,7 +50,7 @@ fn main() {
             let mx_response = resolver.mx_lookup(content.trim());
 
             match mx_response {
-                Err(_) => println!("No Records"),
+                Err(_) => println!("{} : No Records", input),
                 Ok(mx_response) => {
                     let addresses = mx_response.iter();
                     for record in addresses {
