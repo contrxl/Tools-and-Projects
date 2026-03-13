@@ -1,0 +1,11 @@
+/home/contrxl/Git/Tools-and-Projects/Rust/mx/target/x86_64-pc-windows-gnu/release/deps/socket2-130155a33d88eec0.d: /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/windows.rs
+
+/home/contrxl/Git/Tools-and-Projects/Rust/mx/target/x86_64-pc-windows-gnu/release/deps/libsocket2-130155a33d88eec0.rlib: /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/windows.rs
+
+/home/contrxl/Git/Tools-and-Projects/Rust/mx/target/x86_64-pc-windows-gnu/release/deps/libsocket2-130155a33d88eec0.rmeta: /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/windows.rs
+
+/home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/lib.rs:
+/home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sockaddr.rs:
+/home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/socket.rs:
+/home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/utils.rs:
+/home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.3.19/src/sys/windows.rs:
