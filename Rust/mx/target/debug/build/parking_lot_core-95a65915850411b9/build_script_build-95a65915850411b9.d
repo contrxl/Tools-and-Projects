@@ -1,5 +1,0 @@
-/home/contrxl/Git/Tools-and-Projects/Rust/mx/target/debug/build/parking_lot_core-95a65915850411b9/build_script_build-95a65915850411b9.d: /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.8.6/build.rs
-
-/home/contrxl/Git/Tools-and-Projects/Rust/mx/target/debug/build/parking_lot_core-95a65915850411b9/build_script_build-95a65915850411b9: /home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.8.6/build.rs
-
-/home/contrxl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parking_lot_core-0.8.6/build.rs:
